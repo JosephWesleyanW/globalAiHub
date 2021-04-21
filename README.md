@@ -8,18 +8,12 @@
 
 Notes and other documents for Global AI Hub's ML-1 classes.
 
-## Lesson 1
+## Lessons 
 - Probability
 - Linear Algebra
-
-## Lesson 2
 - Data Preparation
 - Linear Regression
-
-## Lesson 4
 - Decision Trees
-
-## Lesson 5
 - Unsupervised Learning
 
 ## [Homeworks](https://github.com/JosephWesleyanW/globalAiHub/tree/main/Homeworks)
