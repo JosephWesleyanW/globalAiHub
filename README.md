@@ -1,2 +1,22 @@
-# globalAiHub
-Notes that i took during Global AI Hub's classes.
+# Introduction to Machine Learning
+
+![gaih](https://github.com/globalaihub/introduction-to-machine-learning/raw/main/logo.png)
+
+
+Notes and other documents for Global AI Hub's ML-1 classes.
+
+## Lesson 1
+- Probability
+- Linear Algebra
+
+## Lesson 2
+- Data Preparation
+- Linear Regression
+
+## Lesson 4
+- Decision Trees
+
+## Lesson 5
+- Unsupervised Learning
+
+## [Homeworks](https://github.com/JosephWesleyanW/globalAiHub/tree/main/Homeworks)
