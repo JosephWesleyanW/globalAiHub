@@ -1,7 +1,10 @@
 # Introduction to Machine Learning
 
 ![gaih](https://github.com/globalaihub/introduction-to-machine-learning/raw/main/logo.png)
-
+## Course Date: 19.04.2021 - 23.04.2021
+## Name: Yusuf Can
+## Surname: Kılıç
+## E-Mail: yusufcan1048@hotmail.com
 
 Notes and other documents for Global AI Hub's ML-1 classes.
 
@@ -20,3 +23,6 @@ Notes and other documents for Global AI Hub's ML-1 classes.
 - Unsupervised Learning
 
 ## [Homeworks](https://github.com/JosephWesleyanW/globalAiHub/tree/main/Homeworks)
+## Requirements
+- Jupyter Notebook
+- Scikit-Learn, Pandas, NumPy, Seaborn, Matplotlib libraries.
