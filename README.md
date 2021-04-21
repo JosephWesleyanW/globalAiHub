@@ -17,6 +17,7 @@ Notes and other documents for Global AI Hub's ML-1 classes.
 - Unsupervised Learning
 
 ## [Homeworks](https://github.com/JosephWesleyanW/globalAiHub/tree/main/Homeworks)
+
 ## Requirements
 - Jupyter Notebook
 - Scikit-Learn, Pandas, NumPy, Seaborn, Matplotlib libraries.
