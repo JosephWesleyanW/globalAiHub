@@ -21,3 +21,7 @@ Notes and other documents for Global AI Hub's ML-1 classes.
 ## Requirements
 - Jupyter Notebook
 - Scikit-Learn, Pandas, NumPy, Seaborn, Matplotlib libraries.
+
+
+![certificate](https://github.com/JosephWesleyanW/globalAiHub/blob/main/Certificate/91278149593906.png?raw=true)
+
