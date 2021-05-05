@@ -25,3 +25,4 @@ Notes and other documents for Global AI Hub's ML-1 classes.
 
 ![certificate](https://github.com/JosephWesleyanW/globalAiHub/blob/main/Certificate/91278149593906.png?raw=true)
 
+![certificate2](https://github.com/JosephWesleyanW/globalAiHub/blob/main/Certificate/ai.png?raw=true)
